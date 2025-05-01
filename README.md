@@ -29,9 +29,9 @@ This is the frontend of the **RBAC Blog App**, built with **React**, **Tailwind 
 
 - git pull https://github.com/SwetaPrasaddd/RBAC-Frontend.git
 
-### 1. Install dependencies
+### 2. Install dependencies
 
 - npm install
 
-### 2. Run The Project
+### 3. Run The Project
 - npm run dev
